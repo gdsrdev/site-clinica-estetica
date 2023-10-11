@@ -3,7 +3,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=0.7,user-scalable=yes">
+<<<<<<< HEAD
 	<title>Clinica Crivelaro v3x</title>
+=======
+	<title>Clinica Crivelaro v4x</title>
+>>>>>>> testes
 	<link rel='stylesheet' type='text/css' href='css/index.css'>
 </head>
 <body>
