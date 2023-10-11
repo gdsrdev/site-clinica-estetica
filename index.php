@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=0.7,user-scalable=yes">
-	<title>Clinica Crivelaro v2</title>
+	<title>Clinica Crivelaro v3x</title>
 	<link rel='stylesheet' type='text/css' href='css/index.css'>
 </head>
 <body>
